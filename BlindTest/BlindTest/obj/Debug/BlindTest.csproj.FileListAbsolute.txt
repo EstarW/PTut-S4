@@ -1,0 +1,24 @@
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.csprojAssemblyReference.cache
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.IHM.FenetreJ.resources
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.IHM.FenetreMJ.resources
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.Form1.resources
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.Properties.Resources.resources
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.csproj.GenerateResource.cache
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.csproj.CoreCompileInputs.cache
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\bin\Debug\BlindTest.exe.config
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\bin\Debug\BlindTest.exe
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\bin\Debug\BlindTest.pdb
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.exe
+C:\Users\dj715494\Desktop\BlindTest\BlindTest\obj\Debug\BlindTest.pdb
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\bin\Debug\BlindTest.exe.config
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\bin\Debug\BlindTest.exe
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\bin\Debug\BlindTest.pdb
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.csprojAssemblyReference.cache
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.IHM.FenetreJ.resources
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.IHM.FenetreMJ.resources
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.Form1.resources
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.Properties.Resources.resources
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.csproj.GenerateResource.cache
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.csproj.CoreCompileInputs.cache
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.exe
+C:\Users\dj715494\Desktop\PTut S4\BlindTest\BlindTest\obj\Debug\BlindTest.pdb
